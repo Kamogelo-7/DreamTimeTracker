@@ -12,7 +12,7 @@ html {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 body {
-  background-image: url(/images/pexels-catiamatos-1072179.jpg);
+  background-image: url(images/pexels-catiamatos-1072179.jpg);
   backdrop-filter: blur(1.5px);
   -webkit-backdrop-filter: blur(1.5px);
   background-repeat: no-repeat;
