@@ -57,6 +57,8 @@ span {
   border-style: solid;
   border-color: rgb(255, 255, 255);
   background-image: url(images/cosmic.webp);
+   background-repeat: no-repeat;
+  background-size: cover;
   height: 300px;
   width: 500px;
   display: flex;
