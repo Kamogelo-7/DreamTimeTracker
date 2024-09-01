@@ -59,7 +59,7 @@ span {
   //*background-image: url(images/cosmic.webp);
    background-repeat: no-repeat;
   background-size: cover;*//
-  background-color:black;
+  background-color: rgb(15, 15, 15);
   height: 300px;
   width: 500px;
   display: flex;
@@ -72,6 +72,7 @@ span {
 }
 .scoreBox:hover {
   box-shadow: rgb(0, 0, 0) 4px 6px 8px;
+  background-color: rgb(15, 15, 15);
   transform: scale(1.1);
 }
 .scoreBox > h3 {
