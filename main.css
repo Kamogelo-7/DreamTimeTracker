@@ -56,9 +56,10 @@ span {
   border-radius: 30px;
   border-style: solid;
   border-color: rgb(255, 255, 255);
-  background-image: url(images/cosmic.webp);
+  //*background-image: url(images/cosmic.webp);
    background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;*//
+  background-color:black;
   height: 300px;
   width: 500px;
   display: flex;
